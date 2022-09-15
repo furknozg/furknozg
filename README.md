@@ -1,4 +1,4 @@
-### Greetings fellow commiter,I'm  Furkan Özgültekin 👋
+### Greetings fellow commiter, I'm  Furkan Özgültekin 👋
 
 - 🔭 I’m currently working on Application Security
 - 👯 I’m looking to collaborate on any Cyber Security and Web related projects

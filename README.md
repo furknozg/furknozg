@@ -1,10 +1,10 @@
-### Greetings fellow commiter, I'm  Furkan Özgültekin 👋
+### Greetings commiter, I'm  Furkan Özgültekin 👋
 
-- 🔭 I’m currently working on Application Security
+- 🔭 I’m currently working on the Cyber industry as a DevSecOps Intern
 - 👯 I’m looking to collaborate on any Cyber Security and Web related projects
 - 💬 Ask me about anything Cyber related
 - 🌱 I’m currently studying to get my CEH and Pentest+ certifications
-
+-
 <!--
 **furknozg/furknozg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

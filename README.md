@@ -28,4 +28,3 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![snake svg](https://github.com/furknozg/furknozg/blob/output/github-contribution-grid-snake.svg)

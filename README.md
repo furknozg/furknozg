@@ -1,6 +1,6 @@
 ### Greetings commiter, I'm  Furkan Özgültekin 👋
 
-- 🔭 I’m currently working on the Cyber industry as a DevSecOps Intern
+- 🔭 I’m currently working on the Finance industry as an Intern Software Engineer
 - 👯 I’m looking to collaborate on any Cyber Security and Web related projects
 - 💬 Ask me about anything Cyber related
 - 🌱 I’m currently studying to get my CEH and Pentest+ certifications

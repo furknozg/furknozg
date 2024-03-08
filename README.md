@@ -42,7 +42,7 @@ Here are some ideas to get you started:
       <img  width="5%" height="auto"  src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/>
       <img  width="5%" height="auto"  src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"/>
       <img  width="5%" height="auto"  src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"/>
-      <img width="5%" height="auto" src="https://cdn.simpleicons.org/threedotjs"
+      <img width="5%" height="auto" src="https://cdn.simpleicons.org/threedotjs/white"
   
 </p>
 

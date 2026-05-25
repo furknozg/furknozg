@@ -1,17 +1,4 @@
-### Hello there, I'm Furkan Özgültekin! 👋
 
-I'm a software engineer with a strong passion for the ever-evolving worlds of cybersecurity and web development. I thrive on learning new technologies and applying my skills to create impactful solutions.
-
-<!--
-**furknozg/furknozg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🔭 Currently, I'm a contributing developer in an AI startup, working for experience over money, It has been and is currently my greatest experience in life.
-- 🌱 I'm a lifelong learner and currently focused on achieving better responsive designs and learning Solidity to further deepen my expertise in varying fields to create new use cases.
-- 👯 I'm always excited to collaborate on innovative **Cyber Security and Web-related projects**. If you have an interesting idea or a project in mind, let's connect!
-- 💬 Feel free to ask me anything about **Security,Web-dev** or related topics. I'll do my best to share my knowledge and assist you.
-
----
 
 ### ⚙️ &nbsp;GitHub Analytics
 

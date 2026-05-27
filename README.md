@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <em>Here is my favourite keyboard that i currently use, a dactyl manuform. Hit me up if you need any help building one of your own from scratc</em>
+  <em>Here is my favourite keyboard that i currently use, a dactyl manuform. Hit me up if you need any help building one of your own from scratch</em>
 </p>
 
 ---

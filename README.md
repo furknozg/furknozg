@@ -31,6 +31,22 @@
 
 ---
 
+### ⌨️ &nbsp;My Keeb
+
+<p align="center">
+  <img 
+    src="./mymanuform.png" 
+    alt="Custom ergonomic split mechanical keyboard build" 
+    width="850"
+  />
+</p>
+
+<p align="center">
+  <em>Here is my favourite keyboard that i currently use, a dactyl manuform. Hit me up if you need any help building one of your own from scratc</em>
+</p>
+
+---
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
